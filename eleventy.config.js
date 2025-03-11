@@ -1,8 +1,10 @@
+export default (eleventyConfig) => {
 
-module.exports = (eleventyConfig) => {
-  return {
-    dir: {
-      input: "src",
-    },
-  };
+}
+
+export const config = {
+  dir: {
+    input: "src",
+    output: "dist",
+  },
 };
