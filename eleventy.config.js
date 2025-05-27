@@ -1,3 +1,4 @@
+/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default (eleventyConfig) => {
 
 }
